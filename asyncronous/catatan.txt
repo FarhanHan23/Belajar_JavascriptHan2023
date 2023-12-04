@@ -1,0 +1,7 @@
+js adalah single threaded, non-blocking, asynchronous dan concurrent language
+
+single thread = js hanya bisa melakukan 1 hal dalam 1 waktu tertentu
+
+non blocking = ketika task 1 berjalan , task 2 juga bisa ikut berjalan
+
+asynchronoous = task 1 mulai lalu pindah ke task 2, lalu bisa pindah ke task 3

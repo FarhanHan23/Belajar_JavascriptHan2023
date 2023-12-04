@@ -1,0 +1,3 @@
+closur adalah kombinasi antara function dan lingkungan leksikal di dalam function tersebut
+
+alasan menggunakan closure untuk membuat function factory, membuat private method

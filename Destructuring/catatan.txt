@@ -1,0 +1,1 @@
+expression pada javascript yang membuat kita dapat membongkar nilai dari array atau propert dari object ke dalam variabel yang terpisah

@@ -1,0 +1,15 @@
+object : kumpulan variabel properti
+variabel dalam object disebut properti
+fungsi dalam object disebut method
+
+//////////////////////////////
+
+membuat object pada Javascript : 
+1. Object Literal
+2. Function Declaration
+3. Constructor Function (keyword new)
+4. Object.create()
+
+//////////////////////////////////
+this adalah window jika dibuat di global
+windows itu global object. jika buat variabel a = 10 maka menjadi properti a dari object window

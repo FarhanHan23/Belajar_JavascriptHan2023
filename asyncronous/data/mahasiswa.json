@@ -1,0 +1,30 @@
+[
+  {
+    "Nama": "Farhan Akmal",
+    "nim": "9302391",
+    "email": "farhan@student.uny@ac.id",
+    "jurusan": "Ilmu Komunikasi",
+    "idDosenWali": 1
+  },
+  {
+    "Nama": "Rafli Rizky",
+    "nim": "56564321",
+    "email": "rafli@student.uny@ac.id",
+    "jurusan": "Ilmu Ekonomi",
+    "idDosenWali": 2
+  },
+  {
+    "Nama": "Radhyan Pasha",
+    "nim": "96456321",
+    "email": "pasha@student.uny@ac.id",
+    "jurusan": "Ilmu Komputer",
+    "idDosenWali": 2
+  },
+  {
+    "Nama": "Rasya Swarnasta",
+    "nim": "55342322",
+    "email": "rasya@student.uny@ac.id",
+    "jurusan": "Ilmu Bahasa",
+    "idDosenWali": 1
+  }
+]
